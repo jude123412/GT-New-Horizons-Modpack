@@ -84,6 +84,7 @@
 	<ToolTip ItemName="dreamcraft:item.CoinDonation" ToolTip="§4Can be used for Donation on Servers only" NBT=""/>
 
 //Draconic Evolution
+	<ToolTip ItemName="DraconicEvolution:energyPylon" ToolTip="§4Energy Pylon is deprecated, use Energy Core Interface instead." NBT=""/>
 	<ToolTip ItemName="dreamcraft:item.MalformedSlush" ToolTip="§2I hope you are not going to eat this later." NBT=""/>
 	<ToolTip ItemName="dreamcraft:item.UncookedSlush" ToolTip="§4Heating up makes food better?" NBT=""/>
 	<ToolTip ItemName="dreamcraft:item.GlowingMarshmallow" ToolTip="§5Is it me or it just gained pixels from all that heat." NBT=""/>
