@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Store your completely useless butterlies in this.",
+      "desc:8": "Store your completely useless butterflies in this.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -55,7 +55,7 @@
           "Count:3": 5,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinBeesI"
+          "id:8": "dreamcraft:CoinBeesI"
         }
       }
     }

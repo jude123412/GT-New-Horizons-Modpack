@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "In order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 xp levels. Some upgrades can be applied directly, but more advanced ones will require empowering the armor first.",
+      "desc:8": "In order to upgrade one armor item with basic upgrades, you need a vibrant crystal and 10 XP levels. Some upgrades can be applied directly, but more advanced ones will require empowering the armor first.",
       "globalShare:1": 1,
       "icon:10": {
         "Count:3": 1,
@@ -91,13 +91,13 @@
           "Count:3": 5,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinSurvivorI"
+          "id:8": "dreamcraft:CoinSurvivorI"
         },
         "1:10": {
           "Count:3": 5,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinSmithI"
+          "id:8": "dreamcraft:CoinSmithI"
         }
       }
     }

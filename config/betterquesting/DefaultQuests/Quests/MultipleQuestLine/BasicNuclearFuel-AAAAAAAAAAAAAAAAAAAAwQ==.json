@@ -14,13 +14,14 @@
         "Count:3": 1,
         "Damage:2": 0,
         "OreDict:8": "",
-        "id:8": "gregtech:gt.Thoriumcell"
+        "id:8": "gregtech:gt.rodThorium",
+        "tag:10": {}
       },
       "isGlobal:1": 0,
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "§a§lBasic Nuclear Fuel: Thorium",
+      "name:8": "§8§lBasic Nuclear Fuel: Thorium",
       "partySingleReward:1": 0,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
@@ -57,7 +58,7 @@
           "Count:3": 2,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinTechnicianII"
+          "id:8": "dreamcraft:CoinTechnicianII"
         }
       }
     }
@@ -75,7 +76,7 @@
           "Count:3": 4,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "gregtech:gt.Thoriumcell",
+          "id:8": "gregtech:gt.rodThorium",
           "tag:10": {}
         }
       },

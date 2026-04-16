@@ -20,7 +20,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "§2§lWooden Door",
+      "name:8": "§a§lWooden Door",
       "partySingleReward:1": 0,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
@@ -75,13 +75,13 @@
           "Count:3": 10,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinSmith"
+          "id:8": "dreamcraft:CoinSmith"
         },
         "1:10": {
           "Count:3": 10,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinTechnician"
+          "id:8": "dreamcraft:CoinTechnician"
         }
       }
     }
@@ -104,7 +104,7 @@
         "1:10": {
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": "",
+          "OreDict:8": "trapdoorWood",
           "id:8": "minecraft:trapdoor"
         },
         "2:10": {
@@ -133,7 +133,7 @@
         "0:10": {
           "Count:3": 1,
           "Damage:2": 0,
-          "OreDict:8": "",
+          "OreDict:8": "doorWood",
           "id:8": "minecraft:wooden_door"
         }
       },

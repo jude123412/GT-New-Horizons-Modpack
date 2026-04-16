@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "The Papaya tree produces Papayas, which produce the most Fruice Juice. Sluuuurp!\n\n§aPapaya and Fruit Juice Get!",
+      "desc:8": "The Papaya tree produces Papayas, which produce the most Fruit Juice. Sluuuurp!\n\n§aPapaya and Fruit Juice Get!",
       "globalShare:1": 1,
       "icon:10": {
         "Count:3": 1,
@@ -116,7 +116,7 @@
           "Count:3": 15,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinForestry"
+          "id:8": "dreamcraft:CoinForestry"
         },
         "1:10": {
           "Count:3": 1,

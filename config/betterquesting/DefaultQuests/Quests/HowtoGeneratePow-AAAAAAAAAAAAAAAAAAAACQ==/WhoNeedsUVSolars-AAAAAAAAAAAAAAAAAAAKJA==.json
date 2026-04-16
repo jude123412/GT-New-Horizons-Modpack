@@ -12,7 +12,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "This single block can produce a maximum of 600m eu/t when in aqua form, that\u0027s balanced right... right?",
+      "desc:8": "16,777,216 Solars!!! This single block can produce a maximum of 600m EU/t when in aqua form, that\u0027s balanced right... right?",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -23,7 +23,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Who Needs UV Solars When You Have Magic",
+      "name:8": "§5§l§nWho Needs UV Solars When You Have Magic",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

@@ -8,7 +8,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "To make higher tier cables, you\u0027ll have to put a little more effort in. Let\u0027s start with Dichlorobenzene.",
+      "desc:8": "To make higher tier cables, you\u0027ll have to use Polyphenylene Sulfide to coat them. Let\u0027s start with Dichlorobenzene.\n\n§6Already automated Polyphenylene Sulfide? Hold 128 sheets to skip this questline.",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -19,7 +19,7 @@
       "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "§a§lDichlorobenzene",
+      "name:8": "§8§lDichlorobenzene",
       "partySingleReward:1": 0,
       "questLogic:8": "AND",
       "repeatTime:3": -1,
@@ -56,7 +56,7 @@
           "Count:3": 1,
           "Damage:2": 0,
           "OreDict:8": "",
-          "id:8": "dreamcraft:item.CoinChemistII"
+          "id:8": "dreamcraft:CoinChemistII"
         }
       }
     }

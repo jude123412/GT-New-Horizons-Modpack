@@ -1,13 +1,16 @@
 {
   "preRequisites:9": {
     "0:10": {
-      "questIDHigh:4": -7949765678093284760,
-      "questIDLow:4": -7384462910267243515
+      "questIDHigh:4": 960069936746873824,
+      "questIDLow:4": -5796823047327111175
     },
     "1:10": {
-      "questIDHigh:4": 960069936746873824,
-      "questIDLow:4": -5796823047327111175,
-      "type:1": 1
+      "questIDHigh:4": -433520487137982834,
+      "questIDLow:4": -4941146285800091061
+    },
+    "2:10": {
+      "questIDHigh:4": -5082536925275926677,
+      "questIDLow:4": -7995813544306558907
     }
   },
   "properties:10": {
@@ -24,7 +27,7 @@
       "isMain:1": 1,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Black Dwarf Matter",
+      "name:8": "§c§l§nBlack Dwarf Matter",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,

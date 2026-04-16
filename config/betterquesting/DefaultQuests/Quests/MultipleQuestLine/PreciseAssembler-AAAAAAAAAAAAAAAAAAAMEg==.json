@@ -24,7 +24,7 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Precise Assembler has two modes: Precise mode and Normal mode.\n\nPrecise mode is used to make some of the advanced components from Good Generator mod.\n\n[note]As name suggests your current casings lack precision to produce these advanced components.\nYou will need at least MK-1 casings for this mode to work.[/note]\n\nNormal mode works as multiblock version of Assembler.\n\n[note]You can\u0027t skip tiers with this. You need singleblock Assembler or GT++ multi to make your first Energy Hatch, then you can use it for Precise Assembler.[/note]",
+      "desc:8": "The Precise Assembler has two modes: Precise and Normal.\n\nPrecise mode is used to make certain advanced components, whereas Normal mode works as multiblock version of the Assembler.\n\n[note]You can\u0027t skip tiers with this. You\u0027ll need either a singleblock Assembler or a Large Scale Auto-Assembler multi to make your first Energy Hatch, then you can use it on the Precise Assembler.[/note]",
       "globalShare:1": 0,
       "icon:10": {
         "Count:3": 1,
@@ -35,7 +35,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Precise Assembler",
+      "name:8": "§9§lPrecise Assembler",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
@@ -81,31 +81,13 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
-          "Count:3": 42,
-          "Damage:2": 0,
+          "Count:3": 1,
+          "Damage:2": 32018,
           "OreDict:8": "",
-          "id:8": "GoodGenerator:impreciseUnitCasing"
-        },
-        "1:10": {
-          "Count:3": 21,
-          "Damage:2": 5,
-          "OreDict:8": "",
-          "id:8": "gregtech:gt.blockcasings"
-        },
-        "2:10": {
-          "Count:3": 12,
-          "Damage:2": 316,
-          "OreDict:8": "",
-          "id:8": "gregtech:gt.blockframes"
-        },
-        "3:10": {
-          "Count:3": 42,
-          "Damage:2": 0,
-          "OreDict:8": "",
-          "id:8": "IC2:blockAlloyGlass"
+          "id:8": "gregtech:gt.blockmachines"
         }
       },
-      "taskID:8": "bq_standard:optional_retrieval"
+      "taskID:8": "bq_standard:retrieval"
     },
     "1:10": {
       "autoConsume:1": 0,
@@ -116,13 +98,37 @@
       "partialMatch:1": 1,
       "requiredItems:9": {
         "0:10": {
+          "Count:3": 79,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "GoodGenerator:impreciseUnitCasing"
+        },
+        "1:10": {
+          "Count:3": 42,
+          "Damage:2": 0,
+          "OreDict:8": "",
+          "id:8": "bartworks:BW_GlasBlocks"
+        },
+        "2:10": {
+          "Count:3": 21,
+          "Damage:2": 5,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockcasings"
+        },
+        "3:10": {
+          "Count:3": 12,
+          "Damage:2": 316,
+          "OreDict:8": "",
+          "id:8": "gregtech:gt.blockframes"
+        },
+        "4:10": {
           "Count:3": 1,
-          "Damage:2": 32018,
+          "Damage:2": 91,
           "OreDict:8": "",
           "id:8": "gregtech:gt.blockmachines"
         }
       },
-      "taskID:8": "bq_standard:retrieval"
+      "taskID:8": "bq_standard:optional_retrieval"
     }
   }
 }

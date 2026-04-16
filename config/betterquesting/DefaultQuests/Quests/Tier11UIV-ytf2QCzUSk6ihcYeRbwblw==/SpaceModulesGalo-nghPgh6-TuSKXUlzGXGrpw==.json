@@ -1,6 +1,11 @@
 {
   "preRequisites:9": {
     "0:10": {
+      "questIDHigh:4": -1110411240280604338,
+      "questIDLow:4": -4677630017092864794,
+      "type:1": 1
+    },
+    "1:10": {
       "questIDHigh:4": 2760534389945944436,
       "questIDLow:4": -8415680337631262256
     }
@@ -19,7 +24,7 @@
       "isMain:1": 0,
       "isSilent:1": 0,
       "lockedProgress:1": 0,
-      "name:8": "Space Modules Galore",
+      "name:8": "§9§l§nSpace Modules Galore",
       "questLogic:8": "AND",
       "repeatTime:3": -1,
       "repeat_relative:1": 1,
