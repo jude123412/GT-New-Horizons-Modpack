@@ -47,7 +47,6 @@ customtooltip.black_gold_rip=§bMay you have all the black gold you want, RIP Ce
 customtooltip.crystallized_shards=§b§lCrystallized shards stabilized by a maximized Godforge
 
 ## IC2
-customtooltip.battery_tier=%s-tier
 customtooltip.deprecated_circuit=§4This circuit is deprecated, Place in crafting grid to return correct item
 
 ## OMT
