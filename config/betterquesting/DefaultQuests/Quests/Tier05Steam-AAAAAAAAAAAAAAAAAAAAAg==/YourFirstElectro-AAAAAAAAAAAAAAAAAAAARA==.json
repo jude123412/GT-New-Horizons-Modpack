@@ -16,13 +16,13 @@
   "properties:10": {
     "betterquesting:10": {
       "autoClaim:1": 0,
-      "desc:8": "Steam machines are quite stupid, they just do one thing over and over again. As you advance into the electrical age, you\u0027ve decided that you want the machines to have more features, like automatic output in order to create some automation. For that, you need electronic circuits.",
+      "desc:8": "Steam machines are quite stupid, they just do one thing over and over again. As you advance into the electrical age, you\u0027ve decided that you want the machines to have more features, like automatic output in order to create some automation. For that, you need basic electronic circuits.",
       "globalShare:1": 1,
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 0,
+        "Damage:2": 32305,
         "OreDict:8": "",
-        "id:8": "IC2:itemPartCircuit"
+        "id:8": "gregtech:gt.metaitem.03"
       },
       "isGlobal:1": 0,
       "isMain:1": 1,
@@ -82,9 +82,9 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "Damage:2": 0,
+          "Damage:2": 32305,
           "OreDict:8": "",
-          "id:8": "IC2:itemPartCircuit"
+          "id:8": "gregtech:gt.metaitem.03"
         }
       },
       "taskID:8": "bq_standard:crafting"

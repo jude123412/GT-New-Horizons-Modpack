@@ -187,7 +187,7 @@ transistor {
 }
 chip1 {
   type: gt_assembler
-  input: ["ic2.itemPartCircuit", "oc:materialTransistor"]
+  input: [{item="gt.metaitem.03", subID=32305}, "oc:materialTransistor"]
   count: [1, 4]
   eu: 25
   time: 480
@@ -195,7 +195,7 @@ chip1 {
 }
 chip2 {
   type: gt_assembler
-  input: ["ic2.itemPartCircuitAdv", "oc:materialTransistor"]
+  input: [{item="gt.metaitem.03", subID=32306}, "oc:materialTransistor"]
   count: [1, 8]
   eu: 25
   time: 640

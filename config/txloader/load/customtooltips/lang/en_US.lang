@@ -48,6 +48,7 @@ customtooltip.crystallized_shards=§b§lCrystallized shards stabilized by a maxi
 
 ## IC2
 customtooltip.battery_tier=%s-tier
+customtooltip.deprecated_circuit=§4This circuit is deprecated, Place in crafting grid to return correct item
 
 ## OMT
 customtooltip.omt_hardness_resistance=Hardness: %s - Blast Resistance: %s

@@ -124,9 +124,9 @@
         },
         "5:10": {
           "Count:3": 1,
-          "Damage:2": 0,
+          "Damage:2": 32306,
           "OreDict:8": "circuitAdvanced",
-          "id:8": "IC2:itemPartCircuitAdv"
+          "id:8": "gregtech:gt.metaitem.03"
         }
       },
       "taskID:8": "bq_standard:optional_retrieval"

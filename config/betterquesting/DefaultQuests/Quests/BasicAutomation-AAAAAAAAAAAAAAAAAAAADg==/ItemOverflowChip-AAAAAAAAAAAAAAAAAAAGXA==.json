@@ -45,9 +45,9 @@
         },
         "1:10": {
           "Count:3": 1,
-          "Damage:2": 0,
+          "Damage:2": 32305,
           "OreDict:8": "",
-          "id:8": "IC2:itemPartCircuit"
+          "id:8": "gregtech:gt.metaitem.03"
         },
         "2:10": {
           "Count:3": 8,

@@ -6,9 +6,9 @@
       "desc:8": "Your second voltage tier. Don\u0027t mix different voltage levels, or you\u0027ll have a fancy new crater. Start thinking about how to expand your base.\n\nBTW, for OCing purposes, this counts as tier 2, ULV doesn\u0027t count.",
       "icon:10": {
         "Count:3": 1,
-        "Damage:2": 0,
+        "Damage:2": 32306,
         "OreDict:8": "",
-        "id:8": "IC2:itemPartCircuitAdv"
+        "id:8": "gregtech:gt.metaitem.03"
       },
       "name:8": "Tier 2 - MV",
       "visibility:8": "UNLOCKED"
